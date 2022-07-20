@@ -2,7 +2,7 @@ List of contributors
 ==================================================
 
 Contributors are welcome to submit pull requests to the official relex GitHub repository, at: ``https://github.com/ylaxor/relex/pulls``.
-Please refer to the ``Contributions`` section of this documentation for more information.
+Please refer to the `How to contribute <./contributions.html>`_ section of this documentation for more information.
 
 * Ali Ncibi
 
